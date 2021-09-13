@@ -6,6 +6,10 @@ header {
     height: 180px;
 }
 
+th {
+    background-color: blue;
+}
+
 .logo {
     height: 50px;
     margin-top: 110px;
@@ -34,4 +38,30 @@ header {
 
 .marginbottom {
     margin-bottom: 30px;
+}
+
+th {
+    background-color: rgb(4, 74, 121);
+    color: white;
+}
+
+table {
+    text-align: left;
+}
+
+th {
+    padding-right: 130px;
+}
+
+/* td {
+    text-align: center;
+    margin-right: 600px;
+} */
+
+.colortable {
+    background-color: rgb(3, 141, 146);
+}
+
+.evidence {
+    background-color: #FFFF00;
 }
